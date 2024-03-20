@@ -1,6 +1,7 @@
-**Web scraper using Python and Beautiful Soup 4.**
+Web scraper using Python and Beautiful Soup 4.
+Geocoding using GeoPy.
 
 Disclaimer: This was my very first project so the code can be a little messy but I added some comments to hopefully convey my thinking/coding process.
 
-
-I made this to gather more updated information on the Philippine (PH) housing market since the ones I found on Kaggle were either outdated or have missing information that I need.
+I made this to gather more updated information on the Philippines (PH) housing market since the ones I found on Kaggle were either outdated or have missing information that I need.
+Data cleaning is done with excel and Data visualization (in the future) will be done in Tableau.

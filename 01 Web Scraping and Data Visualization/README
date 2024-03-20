@@ -1,9 +1,8 @@
-Web scraper using Python and Beautiful Soup 4.
-Geocoding using GeoPy.
+This contains the Philippines Housing Market Dataset scraped from Lamudi (https://www.lamudi.com.ph).
 
-This contains the Philippines Housing Market Dataset and a Tableau for Data Visualization (future project).
+Web scraping was done using Python and Beautiful Soup 4 and Geocoding was done by GeoPy.
+Data cleaning is done with excel.
 
-Disclaimer: This was my very first project so the code can be a little messy but I added some comments to hopefully convey my thinking/coding process.
+Disclaimer: This is my very first project so the code can be a little messy but I added some comments to hopefully convey my thinking/coding process.
 
 I made this to gather more updated information on the Philippines (PH) housing market since the ones I found on Kaggle were either outdated or have missing information that I need.
-Data cleaning is done with excel and Data visualization (in the future) will be done in Tableau.
